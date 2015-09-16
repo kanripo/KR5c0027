@@ -2,9 +2,9 @@
 #+TITLE: 太上老君外日用妙經
 #+DATE: 2015-08-29 00:16:53
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS CK-KZ
+#+PROPERTY: WITNESS YP-C
 #+PROPERTY: JUAN 0
-<md:KR5c0027_HFL_000-001a>¶<pb:KR5c0027_CK-KZ_01p040a>
+<md:KR5c0027_HFL_000-001a>¶<pb:KR5c0027_YP-C_06weiji-01-0047a>
 太上老君外日用妙經¶
 　敬天地　重日月　懼國法　依王道¶　孝父母　上謙讓
 　下和睦　好事行¶　惡事止　成人學　破人斷　高知危¶
